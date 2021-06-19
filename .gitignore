@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.java
+!*.xml
+!*/
+.DS_Store
+.idea/
+target/

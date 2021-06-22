@@ -2,6 +2,7 @@
 !.gitignore
 !*.java
 !*.xml
+!*.md
 !*/
 .DS_Store
 .idea/

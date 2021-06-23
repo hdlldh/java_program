@@ -1,6 +1,7 @@
 *
 !.gitignore
 !*.java
+!*.jar
 !*.xml
 !*.md
 !*/
